@@ -35,10 +35,10 @@ to recognize the path without.
 The instructions list for a total of 6 routes. Using the standard route format, utilized the
 assignment instructions to name each route and commented out for each the desired outcome.
 
-The endpoints in order are:
-'homepage' ('/') lists instructions and the endpoints for all routes.
-'precipitation' ('/api/v1.0/precipitation') lists prcp data for most recent 12 months.
-'stations' ('/api/v1.0/stations') provides a json of the 9 Hawaii stations.
-'tobs' ('/api/v1.0/tobs') provides the observed times for the most active station based on the most recent year.
-'start' ('/api/v1.0/start') provides a TMIN, TMAX, TAVG from a user specified date to the end date of the dataset.
-'start_end' ('/api/v1.0/start_end') provides a TMIN, TMAX, TAVG from a user specified date range in the dataset.
+The endpoints in order are:  
+'homepage' ('/') lists instructions and the endpoints for all routes.  
+'precipitation' ('/api/v1.0/precipitation') lists prcp data for most recent 12 months.  
+'stations' ('/api/v1.0/stations') provides a json of the 9 Hawaii stations.  
+'tobs' ('/api/v1.0/tobs') provides the observed times for the most active station based on the most recent year.  
+'start' ('/api/v1.0/start') provides a TMIN, TMAX, TAVG from a user specified date to the end date of the dataset.  
+'start_end' ('/api/v1.0/start_end') provides a TMIN, TMAX, TAVG from a user specified date range in the dataset.  
